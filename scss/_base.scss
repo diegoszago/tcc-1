@@ -1,0 +1,23 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.s-container {
+  position: relative;
+  height: 100%;
+  width: 100%;
+
+  &--flex {
+    display: flex;
+    align-items: center;
+  }
+}
+
+h1 {
+}
